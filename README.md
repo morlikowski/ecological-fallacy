@@ -17,3 +17,7 @@ The main script is `run.py` in the `ecological_fallacy` top-level module.
 Example: `poetry run python -m ecological_fallacy.run experiments/0.2-baseline/`
 
 The script expects a path to an experiment directory as the only argument. The experiment directory is expected to contain a `config.json` and will be used to write results to a CSV file. Example files for configs and results can be found in the subdirectories of `experiments/`.
+
+## Tests
+
+There a tests in `tests/` for some important parts of the custom code. Note that currently a few of the tests expect a data sample in a specific location which can be created with `notebooks/02_create_sample_kumar.ipynb`.
