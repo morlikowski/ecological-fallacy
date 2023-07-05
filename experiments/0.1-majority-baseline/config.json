@@ -1,0 +1,16 @@
+{
+    "description": "Experiments on a random sample with 5001 annotators with a naive majority baseline using 3 different seeds for 4-fold cross-validation.",
+    "settings": [
+        {
+            "data_path": "data/processed/kumar/sample_5000_annotators_v3.csv",
+            "architecture" : "MAJORITY_BASELINE",
+            "eval_setting": "K_FOLD",
+            "k": 4,
+            "random_seeds": [
+                2803636207,
+                165043843, 
+                2923262358
+            ]
+        }
+    ]
+}  

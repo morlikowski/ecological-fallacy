@@ -1,0 +1,20 @@
+{
+    "description": "Experiments on a random sample with 5001 annotators without shared layers for annotators using 3 different seeds for 4-fold cross-validation.",
+    "settings": [
+        {
+            "data_path": "data/processed/kumar/sample_5000_annotators_v3.csv",
+            "architecture" : "MULTI_TASK",
+            "learning_rate": 0.00001,
+            "eval_setting": "K_FOLD",
+            "k": 4,
+            "attributes": [],
+            "do_random_assignment": false,
+            "pretrained_name_path": "roberta-base",
+            "random_seeds": [
+                2803636207,
+                165043843, 
+                2923262358
+            ]
+        }
+    ]
+}  
