@@ -1,7 +1,9 @@
 # The Ecological Fallacy in Annotation
-This repository contains experiment code for Orlikowski et al. (2023): "The Ecological Fallacy in Annotation: Modelling Human Label Variation goes beyond Sociodemographics" ([Link to Preprint](https://arxiv.org/abs/2306.11559)).
+This repository contains experimentation code for Orlikowski et al. (2023): "The Ecological Fallacy in Annotation: Modelling Human Label Variation goes beyond Sociodemographics" ([Link to paper](https://aclanthology.org/2023.acl-short.88/)).
 
-The paper will be presented at ACL 2023. For now, please cite the preprint version if any of the code is useful to you.
+The work was presented at ACL 2023. Please cite the paper if any of the code is useful to you:
+
+> Matthias Orlikowski, Paul Röttger, Philipp Cimiano, and Dirk Hovy. 2023. The Ecological Fallacy in Annotation: Modeling Human Label Variation goes beyond Sociodemographics. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 1017–1029, Toronto, Canada. Association for Computational Linguistics.
 
 
 ## Setup
