@@ -22,4 +22,4 @@ The script expects a path to an experiment directory as the only argument. The e
 
 ## Tests
 
-There a tests in `tests/` for some important parts of the custom code. Note that currently a few of the tests expect a data sample in a specific location which can be created with `notebooks/02_create_sample_kumar.ipynb`.
+There are tests in `tests/` for some important parts of the custom code. Note that currently a few of the tests expect a data sample in a specific location which can be created with `notebooks/02_create_sample_kumar.ipynb`.
