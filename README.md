@@ -8,7 +8,7 @@ The work was presented at ACL 2023. Please cite the paper if any of the code is 
 
 ## Setup
 
-The project uses [poetry](https://python-poetry.org/docs/) to manage dependencies.
+The project uses [poetry](https://python-poetry.org/docs/) to manage dependencies. See their documentation for a description of how to install it.
 
 You should be able to install the package and its dependecies for development using `poetry install` in the project directory. The repository is already initalized, that is, it contains a `pyproject.toml` and `poetry.lock` file.
 
